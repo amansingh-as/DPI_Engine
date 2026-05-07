@@ -99,13 +99,13 @@ processed by the same Fast Path thread — no locking needed for flow state.
 ## Screenshots
 
 ### DPI Engine Output
-![Output 1](screenshots/screenshot1.png)
+![Output 1](screenshots/Screenshot1.png)
 
 ### DPI Engine Output
-![Output 2](screenshots/screenshot2.png)
+![Output 2](screenshots/Screenshot2.png)
 
 ### DPI Engine Output
-![Output 3](screenshots/screenshot3.png)
+![Output 3](screenshots/Screenshot3.png)
 
 ### DPI Engine Output
-![Output 4](screenshots/screenshot4.png)
+![Output 4](screenshots/Screenshot4.png)
