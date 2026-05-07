@@ -96,3 +96,16 @@ processed by the same Fast Path thread — no locking needed for flow state.
 
 ---
 
+## Screenshots
+
+### DPI Engine Output
+![Output 1](screenshots/screenshot1.png)
+
+### Blocking Rules
+![Output 2](screenshots/screenshot2.png)
+
+### Multi-threaded Processing
+![Output 3](screenshots/screenshot3.png)
+
+### Traffic Classification
+![Output 4](screenshots/screenshot4.png)
